@@ -1,23 +1,29 @@
-name: Update Language Stats
+name: Update Profile Language Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate language stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Update README with language stats
+        uses: anmol098/waka-readme-stats@master
         with:
-          username: allanmaaz
-          show_icons: true
-          theme: dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
