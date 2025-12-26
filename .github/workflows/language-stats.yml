@@ -2,7 +2,7 @@ name: Update Language Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
@@ -13,3 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Generate language stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: allanmaaz
+          show_icons: true
+          theme: dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
