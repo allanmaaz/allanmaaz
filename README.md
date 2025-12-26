@@ -10,8 +10,7 @@ I’m a **Computer Science student** focused on building real-world, scalable ap
 
 ## 🧠 Languages I’ve Used So Far (Auto-Updated)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Languages](https://raw.githubusercontent.com/allanmaaz/allanmaaz/main/github-metrics.svg)
 
 
 # 📊 GitHub Stats:
