@@ -1,17 +1,32 @@
-# 💫 About Me:
-I’m a **Computer Science student** focused on building real-world, scalable applications.  <br>Currently sharpening my skills in **Full-Stack Development** using **Spring Boot + React**, while consistently practicing **Data Structures & Algorithms on LeetCode (Java)**.<br><br>I’m Good with **Java**, with hands-on experience in **Python and C**, and a growing interest in writing clean, efficient, and maintainable code.  <br>I enjoy learning by **building projects**, breaking things, and fixing them better the next time.<br><br>🎯 **Current goals**  <br>- Become industry-ready as a **Full-Stack**  <br>- Improve problem-solving and system thinking  <br>- Build meaningful projects that solve real problems  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="allanmaaz's GitHub profile" src="dark_mode.svg">
+  </picture>
+</p>
 
+# 💫 About Me:
+I’m a **Computer Science student** focused on building real-world, scalable applications.  <br>
+Currently sharpening my skills in **Full-Stack Development** using **Spring Boot + React**, while consistently practicing **Data Structures & Algorithms on LeetCode (Java)**.<br><br>
+
+I’m Good with **Java**, with hands-on experience in **Python and C**, and a growing interest in writing clean, efficient, and maintainable code.  <br>
+I enjoy learning by **building projects**, breaking things, and fixing them better the next time.<br><br>
+
+🎯 **Current goals**  <br>
+- Become industry-ready as a **Full-Stack**  
+- Improve problem-solving and system thinking  
+- Build meaningful projects that solve real problems  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/allanmaaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allanmaaz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allanmaazimdad@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/allanmaaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allanmaaz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allanmaazimdad@gmail.com)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🧠 Languages I’ve Used So Far 
+## 🧠 Languages I’ve Used So Far
 
 ![Languages](https://raw.githubusercontent.com/allanmaaz/allanmaaz/main/github-metrics.svg)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=allanmaaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -23,4 +38,3 @@ I’m a **Computer Science student** focused on building real-world, scalable ap
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=allanmaaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
