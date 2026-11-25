@@ -85,9 +85,9 @@ Currently sharpening my skills in **Full-Stack Development** with **Spring Boot 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=allanmaaz&theme=dark&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=allanmaaz&theme=default&hide_border=false">
-    <img alt="allanmaaz's GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=allanmaaz&theme=dark&hide_border=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=allanmaaz&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=allanmaaz&theme=default&hide_border=false">
+    <img alt="allanmaaz's GitHub streak" src="https://streak-stats.demolab.com/?user=allanmaaz&theme=dark&hide_border=false" />
   </picture>
 </p>
 
@@ -95,18 +95,18 @@ Currently sharpening my skills in **Full-Stack Development** with **Spring Boot 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=allanmaaz&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=allanmaaz&theme=flat&no-frame=false&no-bg=false&margin-w=4">
-    <img alt="allanmaaz's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=allanmaaz&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=allanmaaz&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=allanmaaz&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+    <img alt="allanmaaz's GitHub trophies" src="https://github-trophies.vercel.app/?username=allanmaaz&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
   </picture>
 </p>
 
-### 🔝 Top Contributed Repos
+### 📈 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=allanmaaz&limit=5&theme=dark&combine_all_yearly_contributions=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=allanmaaz&limit=5&theme=default&combine_all_yearly_contributions=true">
-    <img alt="allanmaaz's top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=allanmaaz&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=allanmaaz&theme=github-compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=allanmaaz&theme=minimal">
+    <img alt="allanmaaz's top contributed repos" src="https://github-readme-activity-graph.vercel.app/graph?username=allanmaaz&theme=github-compact" />
   </picture>
 </p>
